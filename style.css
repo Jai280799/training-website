@@ -1,0 +1,10 @@
+div {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+p{
+  font-family: fantasy;
+  font-size: 25px;
+}
